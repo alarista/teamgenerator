@@ -29,4 +29,4 @@ github: alarista
 Again, huge shoutout to Yazmin Tinoco (Yazmin30-bot), as usual, without her help I wouldn't have known where to start.
 
 ## Application working video
-https://drive.google.com/file/d/1h2-c91WwX9YBEiJVjHEiyeNDDOJ2mMxl/view
+https://drive.google.com/file/d/1K1U0mYmBHMZjFWTvoBd9ci9TBKpIAyCu/view
